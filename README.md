@@ -4,4 +4,4 @@ Content of folder *music_genre_data_di" were too big to upload to regular github
 
 ## Also:
 
-Folder "youtube_melgrams" contains copyrighted material.
+Folder "youtube_melgrams" contains copyrighted material. This project was run using Kaggle.
